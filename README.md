@@ -39,17 +39,6 @@ sudo ln -s "$(pwd)/main.py" /usr/local/bin/osint-cli
 osint-cli ip
 ```
 
-## GitHub'ga joylash
-
-```bash
-cd osint-cli
-git init
-git add .
-git commit -m "osint-cli: birinchi versiya"
-git branch -M main
-git remote add origin https://github.com/<username>/osint-cli.git
-git push -u origin main
-```
 
 ## Muhim eslatma
 
